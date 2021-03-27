@@ -4,7 +4,7 @@
 ### Hi there, I'm [Yao Li](https://yaolipro.github.io) 🎉
 
 - 🇨🇳 Chinese
-- 🌏 Open-source software developer
+<!-- - 🌏 Open-source software developer -->
 - ⚡ Python, Java, Go ...
 
 <img src="https://github-profile-trophy.vercel.app/?username=yaolipro&theme=flat&column=7&margin-w=10" alt="logo" height="160" align="center" />
