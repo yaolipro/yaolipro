@@ -1,7 +1,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=thirtyonelee&show_icons=true&theme=vue" alt="Yao Li's github stats" />
 
-### Hi, I'm [Thirtyone Lee](https://thirtyonelee.github.io) 🎉
+### Hi, I'm [李三十一](https://thirtyonelee.github.io) 🎉
 
 - 🇨🇳 Chinese
 <!-- - 🌏 Open-source software developer -->
